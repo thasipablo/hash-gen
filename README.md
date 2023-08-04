@@ -28,9 +28,9 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Markup</summary>
+  <summary>Programming Language</summary>
   <ul>
-    <li><a href="https://www.rust-lang.org/">HTML</a></li>
+    <li><a href="https://www.rust-lang.org/">Rust</a></li>
   </ul>
 </details>
 
