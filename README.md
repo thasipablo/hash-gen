@@ -21,7 +21,7 @@
 
 # 📖 Hash_Gen <a name="about-project"></a>
 
-**Hash Gen** is a Hash generator built for learning purposes.
+**Hash Gen** is a simple app built in Rust that allows users to generate hashes from texts and files using the Rust hash-generator crate.
 
 ## 🛠 Built With <a name="built-with"></a>
 
